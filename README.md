@@ -51,5 +51,11 @@ components streamlit : --> https://components.streamlit.app
 </p>
 
 ### 4_app_agGrid_grouping.py
+<p align="center">
+    <img src="./gambar-petunjuk/ss_004.png" alt="004" style="display: block; margin: 0 auto;">
+</p>
 
 ### 5_app_agGrid_grouping_suppressColumnVirtualisation.py
+<p align="center">
+    <img src="./gambar-petunjuk/ss_005.png" alt="005" style="display: block; margin: 0 auto;">
+</p>
