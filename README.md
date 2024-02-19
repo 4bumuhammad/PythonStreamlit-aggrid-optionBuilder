@@ -31,3 +31,6 @@ components streamlit : --> https://components.streamlit.app
 ### menjalankan project:
 
     ❯ streamlit run ./<nama-file>.py  --server.port 8888
+
+
+---
